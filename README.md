@@ -5,15 +5,15 @@ Welcome to the Blockchain for Developers DeCal's midterm assignment. You'll be d
 
 ###### Project Partner 1
 
-Name:
+Name: Martin Kim
 
-SID:
+SID: 3032169700
 
-Email:
+Email: minty0829@berkeley.edu
 
 ###### Project Partner 2
 
-Name:
+Name: Ryan Olsen 
 
 SID:
 
